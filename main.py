@@ -479,5 +479,5 @@ plt.savefig('figures/theoretical/Experimental2.png')
 #plt.clf()
 #plot_mx(forces)
 #plt.clf()
-plot_my(forces)
+#plot_my(forces)
 
