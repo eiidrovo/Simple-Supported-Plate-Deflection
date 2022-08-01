@@ -10,16 +10,16 @@ Para la obtención de los valores teóricos se usó una ampliación de series si
 
 # NOTA DE DATOS DE ENTRADA.
 Los datos necesarios para que el programa funcione se encuentran en [data.json](https://github.com/eiidrovo/Simple-Supported-Plate-Deflection/blob/main/data.json).
-*E: Modulo de Young
-*pois: Coeficiente de Poisson
-*a: Longitud de la plancha en el eje X (lado mas largo)
-*b: Longitud de la plancha en el eje Y
-*t: Espesor de la plancha
-*xf: Posicion de la carga en el eje x
-*yf: Posicion de la carga en el eje y
-*s1,2,3,4: Cada S# hace referencia a una lista con una posicion para cada "strain gauge" en pares tipo [x,y]
-*w1,2,3,4: Pesos en kg. El script fue hecho para 4 pesos.
-*Series: Cantidad de series sinusoidales que se calcular
+* E: Modulo de Young
+* pois: Coeficiente de Poisson
+* a: Longitud de la plancha en el eje X (lado mas largo)
+* b: Longitud de la plancha en el eje Y
+* t: Espesor de la plancha
+* xf: Posicion de la carga en el eje x
+* yf: Posicion de la carga en el eje y
+* s1,2,3,4: Cada S# hace referencia a una lista con una posicion para cada "strain gauge" en pares tipo [x,y]
+* w1,2,3,4: Pesos en kg. El script fue hecho para 4 pesos.
+* Series: Cantidad de series sinusoidales que se calcular
 
 ## EJEMPLO DE OUTPUT PARA LOS EXPERIMENTOS ss1 y ss2
 | ![exp1.png](https://github.com/eiidrovo/Simple-Supported-Plate-Deflection/blob/main/Simple%20supported/exp1.png) | 
